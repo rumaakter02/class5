@@ -1,0 +1,13 @@
+.bgimage{
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+    border: 10px solid;
+    background:#9ddff7 url(./images/logo-firefox.png) no-repeat center center fixed;
+}
+.boxmodel{
+    background: #95a327;
+    padding: 50px;
+    border: 1px solid rgb(36, 24, 63);
+    margin: 20px;
+}
